@@ -1,2 +1,3 @@
 # shivani-kumari
-this is my first project2
+this is my first project
+Author - Shivani kumari
